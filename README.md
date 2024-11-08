@@ -34,4 +34,4 @@ argc=5
 
 2. If you enclose them in double quotes, they are treated as a single argument.
 
-3. However, if argv[0] is enclosed in double quotes and passed to the second argument of "\_spawnv", an error occurs.
+3. However, if argv[0] is enclosed in double quotes and passed to the 2nd argument of "\_spawnv", an error occurs.
